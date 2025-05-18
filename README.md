@@ -18,6 +18,10 @@ A simple and interactive counter application built with **React** and **Vite**. 
 - **JavaScript**
 - **CSS**
 
+📸 Screenshot
+
+![Counter App UI](./assets/ss.png)
+
 🚀 Live Demo
 
 🔗 [Click here to view the live app](https://friendly-capybara-81f070.netlify.app/)
